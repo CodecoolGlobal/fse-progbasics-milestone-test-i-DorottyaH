@@ -9,6 +9,7 @@ If the array is empty then it should return an empty array.
  */
 
 function filterDivisible(numbers, divisor) {
+    let divisor = 0 
 
 }
 
